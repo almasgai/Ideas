@@ -9,7 +9,7 @@ Writing down some ideas I might do
   * Would need to get _all_ the parts again and more ultrasonic sensors for 360 coverage
   
 - Smart Mirror: display useful information and interactive via Google Assistant, Alex, etc.
-  * Blieve I actually have everything except for wood & acryllic glass
+  * Believe I actually have everything except for wood & acryllic glass
   
 - An Arduino powered drone
   * Something I want to do before I graduate
@@ -21,8 +21,8 @@ Writing down some ideas I might do
 - Fingerprint scanner to get into room
 
 ## Graphics
-- Particle Simulation 
-  * Most likely in C++
+- ~~~Particle Simulation 
+  * Most likely in C++~~~
   
 ## Algorithms
 - Write a program that does lossless file compression
@@ -31,3 +31,5 @@ Writing down some ideas I might do
 - FlashNotes: summarizes OCR text 
   * Would have to use 2 libraries: one for OCR and another for text summarization
 - Cross platform dynamic EQ
+- Basic Calculator App
+- Basic Chat App
