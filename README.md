@@ -21,7 +21,7 @@ Writing down some ideas I might do
 - Fingerprint scanner to get into room
 
 ## Graphics
-- ~~Particle Simulation ~~
+- ~~Particle Simulation~~
   * ~~Most likely in C++~~
   
 ## Algorithms
