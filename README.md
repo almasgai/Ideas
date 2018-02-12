@@ -21,8 +21,8 @@ Writing down some ideas I might do
 - Fingerprint scanner to get into room
 
 ## Graphics
-- ~~Particle Simulation 
-  * Most likely in C++~~
+- ~~Particle Simulation ~~
+  * ~~Most likely in C++~~
   
 ## Algorithms
 - Write a program that does lossless file compression
