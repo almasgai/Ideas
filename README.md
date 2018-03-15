@@ -1,7 +1,7 @@
 # Ideas
 Writing down some ideas I might do
 
-## Embedded Systems & IoT:
+## Embedded Systems & IoT
 - Raspberry Pi based turntable
   * Need a 3D printer, record needle, servo to spin platter
   
@@ -31,5 +31,11 @@ Writing down some ideas I might do
 - FlashNotes: summarizes OCR text 
   * Would have to use 2 libraries: one for OCR and another for text summarization
 - Cross platform dynamic EQ
-- Basic Calculator App
+- ~~Basic Calculator App~~
 - Basic Chat App
+
+
+## Other
+- Write a game emulator
+- Create a compiler
+- Write a debugger
