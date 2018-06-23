@@ -38,4 +38,6 @@ Writing down some ideas I might do
 ## Other
 - Write a game emulator
 - Create a compiler
+- Create a interpeter
 - Write a debugger
+- Pulse News Revived
